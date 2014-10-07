@@ -3,7 +3,8 @@ sample-test-karma-power-assert-requirejs
 
 Example using Karma + power-assert + RequireJS
 
-https://travis-ci.org/hell0again/sample-test-karma-power-assert-requirejs.svg?branch=master ("failed" expected!!)
+[![Build Status](https://travis-ci.org/hell0again/sample-test-karma-power-assert-requirejs.svg?branch=master)](https://travis-ci.org/hell0again/sample-test-karma-power-assert-requirejs)  
+("failed" expected!!)
 
 - karma
 - power-assert
