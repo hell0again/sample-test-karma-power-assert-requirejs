@@ -9,6 +9,7 @@ Example using Karma + power-assert + RequireJS
 - mocha
 - gulp
 - coffee-script
+- phantomjs
 
 ## setup
 
