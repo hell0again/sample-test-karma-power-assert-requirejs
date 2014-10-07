@@ -1,0 +1,5 @@
+node_modules
+bower_components
+app/assets/js
+test/assets/js
+test/assets/espowered
